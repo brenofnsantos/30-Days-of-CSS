@@ -25,4 +25,4 @@ _📍 Rio de Janeiro - BR_
   
   * **All the source code will be shared** with love here and on Instagram: @brenofnsantos;
   * I want to **let others know about this challenge and help other students** who are just starting out like me;
-  * You guys will be having **30 Different HTML CSS Projects** all at the same place.
+  * You guys will be having **30 Different HTML CSS Projects** made by me, all at the same place.
