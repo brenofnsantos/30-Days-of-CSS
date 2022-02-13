@@ -11,6 +11,7 @@ _Front-End student in Rocketseat 🚀_
 
 _📍 Rio de Janeiro - BR_
 
+Status: Developing ⚠️
 
 > ### Technologies Used 💻
 
