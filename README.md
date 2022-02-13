@@ -26,7 +26,6 @@ Status: Developing ⚠️
   <td>5</td>
   <td>3</td>
   </tr>
-  
   </table>
   
  > ### The Goal 🎯 
