@@ -30,13 +30,13 @@ Status: Developing ⚠️
   
  > ### The Goal 🎯 
   
-  * **Code a HTML and CSS project every day**, for example: _Simple like Hover Effects, form design, CSS animations, which can be used in real world websites, etc_.;
+  * **Code a HTML and CSS project every day or week**, for example: _Simple like Hover Effects, form design, CSS animations, which can be used in real world websites, etc_.;
   * **Improve my skills in HTML5 and CSS3** by carrying out projects and applying the knowledge acquired during my studies.
   * **Improve the code** used as inspiration to create the project.
   
 >  ### Rules 📖
   
-  * Carry out a **new project every day** (not necessarily for 30 days in a row);
+  * Carry out a **new project every day or week** (not necessarily for 30 days in a row);
   * **Do not repeat a project already created**;
   * The project must **be completed until 11:59pm**.
   
